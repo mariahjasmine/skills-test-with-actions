@@ -1,4 +1,0 @@
-plugins:
-  - remark-lint
-  - remark-preset-lint-consistent:
-      emphasis-marker: "_"
